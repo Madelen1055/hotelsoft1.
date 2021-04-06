@@ -1,1 +1,1 @@
-# hotelsoft1.
+# hotelsoft1
